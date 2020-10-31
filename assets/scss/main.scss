@@ -1,0 +1,13 @@
+@import 'reset.scss';
+@import 'bootstrap/scss/bootstrap.scss';
+@import 'bootstrap-vue/src/index.scss';
+
+
+html,
+body {
+  height: 100%;
+}
+
+ul {
+  padding-left: 15px;
+}
